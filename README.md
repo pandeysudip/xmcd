@@ -1,2 +1,5 @@
 # XMCD
-X-ray magnetic circular dichroism (XMCD) project on rare earth single crystal
+## X-ray magnetic circular dichroism (XMCD) project on rare earth single crystal
+
+## Investigating the Spin and Orbital Moments of Lanthanides at Successive Metamagnetic Transitions in (Pr0.6Er0.4)Al2 Single Crystal 
+Rare-earth intermetallics play a critical yet often obscure role in numerous technological applications, including sensors, actuators, permanent magnets, and rechargeable batteries; therefore, understanding their basic science is of utmost importance. Rare earth dialuminides containing mixed light R and heavy R  lanthanides, R1−xRxAl2 create an interesting playground, with spin-orbit coupling constants opposite for the light and heavy lanthanides, and more generally a competition between R and R  leads to anomalous behavior. Our recent XMCD measurements at L2,3 edges of Pr0.6Er0.4Al2 single crystal at beamline 4ID-D at APS showed some interesting results. In this proposal, we now seek to investigate spin and orbital moments of Pr and Er from Pr0.6Er0.4Al2 single crystals at low temperature and high magnetic field at M4,5 edges via X-ray magnetic circular magnetism (XMCD) measurements in order to gain the better understanding of the XMCD data and to shed light on the observed anomalous behavior.
